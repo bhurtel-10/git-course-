@@ -1,2 +1,4 @@
 Day 1 of Git and Github.
 - git init
+-git add <file_name>
+-git commit -m "message"
